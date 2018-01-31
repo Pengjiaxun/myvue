@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "normalize.css": "^6.0.0",
+        "vuex": "^3.0.1"
+    }
+}

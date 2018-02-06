@@ -499,3 +499,13 @@ template {
 [hidden] {
     display: none;
 }
+
+// custom
+ul > li {
+    list-style: none;
+    display: inline-block;
+}
+
+i {
+    display: inline-block;
+}

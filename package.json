@@ -2,6 +2,8 @@
     "dependencies": {
         "normalize.css": "^6.0.0",
         "vuex": "^3.0.1",
-        "element-ui": "^2.2.0"
+        "element-ui": "^2.2.0",
+        "node-sass": "^4.7.2",
+    	"sass-loader": "^6.0.6"
     }
 }
